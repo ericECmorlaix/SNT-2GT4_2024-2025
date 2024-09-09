@@ -1207,10 +1207,23 @@ Correction DM HTML/CSS
 
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-
-- **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter]{target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
-
 -->
+***
+
+### Le 10/09
+
+=== "CONTENU DE SÉANCE"
+
+    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `70693ZCS5` ;
+    
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°ba7a-3864065](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}  
+
+
 ***
 
 ### Le 04/09
