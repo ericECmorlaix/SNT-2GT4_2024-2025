@@ -1209,7 +1209,7 @@ Correction DM HTML/CSS
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
 -->
 
-### Le 11/09
+### Les 11 et 16/09
 
 === "CONTENU DE SÉANCE"
 
