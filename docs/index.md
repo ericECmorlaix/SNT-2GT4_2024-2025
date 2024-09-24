@@ -94,6 +94,18 @@
 [notebook jupyter]: https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/
 
 ***
+
+???+ question "Questions ouvertes : ..."
+
+    - Est-ce que apprendre Python c'est utile si on n'a pas l'intention de faire NSI ou SI ?
+
+<!-- - Ce sera évalué en SNT ;
+- Python est le langage retenu dans toutes les spécialités scientifiques au lycée ;
+- Culture pour mieux comprendre le fonctionement des algorithmes, des scripts exécutés par les machines...
+- <https://duckduckgo.com/?q=python+en+médecine&atb=v433-1&ia=web>
+
+ -->
+
 <!-- 
 **A LIRE :**
 
@@ -1208,7 +1220,20 @@ Correction DM HTML/CSS
     
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
 -->
+***
+### Le 25/09
 
+=== "CONTENU DE SÉANCE"
+
+    - [Bilan d'activités FuturCoder](https://nbviewer.org/urls/ericecmorlaix.github.io/SNT-2GT4_2024-2025/Bilan_FuturCoder.ipynb){target=_blank}
+    [Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank .md-button .md-button--primary} ;  
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Bilan_FuturCoder.ipynb){ .md-button .md-button--primary}
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} 
+
+***
 ### Les 11 et 16/09
 
 === "CONTENU DE SÉANCE"
