@@ -1225,13 +1225,15 @@ Correction DM HTML/CSS
 
 === "CONTENU DE SÉANCE"
 
-    - [Bilan d'activités FuturCoder](https://nbviewer.org/urls/ericecmorlaix.github.io/SNT-2GT4_2024-2025/Bilan_FuturCoder.ipynb){target=_blank}
-    [Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank .md-button .md-button--primary} ;  
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Bilan_FuturCoder.ipynb){ .md-button .md-button--primary}
+    - [Bilan d'activités FuturCoder](https://nbviewer.org/urls/ericecmorlaix.github.io/SNT-2GT4_2024-2025/Bilan_FuturCoder.ipynb){target=_blank} 
+    [Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Bilan_FuturCoder.ipynb){ .md-button .md-button--primary} ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} 
+    - **Finir** et **rendre** votre [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} pour le **02/10** ;
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ; 
 
 ***
 ### Les 11 et 16/09
