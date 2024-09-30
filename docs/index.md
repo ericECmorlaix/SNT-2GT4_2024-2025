@@ -1177,7 +1177,7 @@ Correction DM HTML/CSS
 
 === "TRAVAIL À FAIRE"
 
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    
     - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
     > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
     > - Ajoutez les membres de votre groupe en Copie Carbone du mail ;
@@ -1186,7 +1186,7 @@ Correction DM HTML/CSS
 
 - **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
 
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+    
 
    - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
     > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
@@ -1202,13 +1202,15 @@ Correction DM HTML/CSS
 
     - Retour sur le T.A.F. ;
 
-    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/VKS5ATN4>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157),  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...  
+    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/VKS5ATN4>{target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157),  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...  
 
 === "TRAVAIL À FAIRE"
 
-     - **Finir** et **rendre** votre [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} pour le **02/10** ;
+    - **Finir** et **rendre** votre [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} pour le **02/10** ;
 
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ; 
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
 
 
 ***
@@ -1224,7 +1226,7 @@ Correction DM HTML/CSS
 
     - **Finir** et **rendre** votre [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} pour le **02/10** ;
 
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ; 
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
 
 ***
 ### Les 11 et 16/09
