@@ -1184,42 +1184,33 @@ Correction DM HTML/CSS
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
 
-
-***
-
-### Le 21/09
-
-=== "CONTENU DE SÉANCE"
-
-    -  Test de positionnement en Mathématiques : [portail DEPP](https://depp23-exhaustives.depp.taocloud.fr/){:target="_blank"} ;
+- **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
 
     - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
 
-=== "TRAVAIL À FAIRE"
-
+   - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
+    > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
+    > - Ajoutez les membres de votre groupe en Copie Carbone du mail ;
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
 
-
+-->
 ***
-
-### Le 12/09
-
-> de 10h à 12h en 10.21
+### Le 30/09
 
 === "CONTENU DE SÉANCE"
 
-    -  **Finir** la [prise en main](https://ec-morlaix.github.io/info/priseenmain/){:target="_blank"} de l'iPad et de l'E.N.T. ECA.M ;
+    - Retour sur le T.A.F. ;
 
-    - **Répondre** au QCM CHARTE INFORMATIQUE ET RÈGLEMENT INTÉRIEUR sur Ecole Directe ;
-    
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/VKS5ATN4>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157),  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...  
 
 === "TRAVAIL À FAIRE"
 
-    
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
--->
+     - **Finir** et **rendre** votre [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} pour le **02/10** ;
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ; 
+
+
 ***
 ### Le 25/09
 
