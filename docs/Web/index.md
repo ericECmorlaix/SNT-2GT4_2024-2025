@@ -16,7 +16,6 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 ![static_website](../images/undraw_static_website_re_x70h.svg){ .center width=50%}
 
-<!-- 
 
 ## Introduction au web
 
@@ -30,13 +29,9 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/68TNDVJKjp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **Comparer** vos rélevés avec ceux des autres membres de l'équipe et **compléter** votre liste d'apprentissage au format HTML ;
+- **Comparer** vos rélevés avec ceux des autres membres de l'équipe et **compléter** votre liste d'apprentissage au format HTML dans une cellule `Markdown` de votre [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
 
-- **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
-
-> - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
-> - Ajoutez les membres de votre groupe en Copie Carbone du mail ;
- -->
+> - _Indiquez sur ce document les prénoms de chaque membre de votre équipe_ ;
 
 
 <!-- - Comparer vos rélevés avec ceux des autres équipes et compléter votre liste. -->
