@@ -1195,8 +1195,6 @@ Correction DM HTML/CSS
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
 
 -->
-https://capytale2.ac-paris.fr/web/c/c691-4301347
-
 ***
 ### Le 14/10
 
