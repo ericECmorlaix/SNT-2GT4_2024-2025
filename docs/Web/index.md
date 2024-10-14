@@ -35,6 +35,12 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 
 <!-- - Comparer vos rélevés avec ceux des autres équipes et compléter votre liste. -->
+
+
+## Coder une page WEB en HTML et CSS
+
+- **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
+
 <!-- 
 
 ## Publier un site Web

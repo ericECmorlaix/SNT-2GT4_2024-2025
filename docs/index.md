@@ -1195,6 +1195,28 @@ Correction DM HTML/CSS
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
 
 -->
+https://capytale2.ac-paris.fr/web/c/c691-4301347
+
+***
+### Le 14/10
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** et **rendre** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web){target=_blank} ;
+
+    - **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
+    
+    - **Poursuivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank},  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...
+  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** et **rendre** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} pour le 06/11/2024 ;
+    
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
+
 ***
 ### Le 09/10
 
