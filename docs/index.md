@@ -1196,6 +1196,23 @@ Correction DM HTML/CSS
 
 -->
 ***
+### Le 06/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+
+    - **Poursuivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank},  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...
+  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
+
+
+***
 ### Le 14/10
 
 === "CONTENU DE SÉANCE"
