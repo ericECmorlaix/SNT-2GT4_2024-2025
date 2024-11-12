@@ -41,6 +41,52 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 - **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
 
+
+## Quelques notions essentielles à retenir
+
+- Web = ... = ... :
+- Internet :
+- Web != Internet ?
+- Site
+
+- ARPANET 1970
+- Tim BERNER LEE en 1990
+- Hypertexte
+
+- HTML :
+- CSS :
+- index.html
+- style.css
+- sélecteur CSS
+- Javascript
+- script.js
+- HTML5 permet le web sémantique
+- MarkDown
+
+- Client / Serveur
+- Navigateur
+- HTTP / HTTPS
+- Faire une requête HTTP
+- Code 200, 404 
+- web statique
+- web dynamique
+
+- Moteur de recherche (Metamoteur)
+- Surfer
+- URL
+- IP
+- DNS
+- arborescence
+- chemin absolu/relatif 
+
+- Cloud
+- Mail
+- Streaming
+
+- Cookies
+- Référencement Web (Page Rank)
+
+
 <!-- 
 
 ## Publier un site Web
@@ -140,13 +186,13 @@ Transmettre par [mail] un lien vers le site de votre projet web pour l'intégrer
 
 <!-- Maintenant que vous êtes devenus expert de votre sujet, il s'agit de l'expliquer à vos pairs en vous appuyant sur la présentation de votre site...  -->
 
-<!-- 
+ 
 ## Le bilan du thème
-
-Utiliser la ressource du [Livre Scolaire](https://www.lelivrescolaire.fr/page/30327051) pour valider le contenu de votre projet Web.
+<!-- 
+Utiliser la ressource du [Livre Scolaire](https://www.lelivrescolaire.fr/page/30327051) pour valider le contenu de votre projet Web. -->
 
 Lire [Le cours](https://www.lelivrescolaire.fr/page/30330066){target="_blank"} et retenir [l'essentiel](https://www.lelivrescolaire.fr/page/30330018){target="_blank"} à savoir pour une évaluation par QCM...
- -->
+
 
 <!-- 
 

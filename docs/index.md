@@ -1194,7 +1194,29 @@ Correction DM HTML/CSS
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
 
+
+
+
 -->
+***
+### Le 13/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+
+    - Bilan des notions essentielles du Web ;
+
+    - **Mesurer** vos compétences sur PIX dans les domaines [du Web parcours `XHBQVH781`](https://app.pix.fr/campagnes/XHBQVH781){target="_blank"} et [de l'Internet parcours `GMHLWV945`](https://app.pix.fr/campagnes/GMHLWV945){target="_blank"} ;    
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Réviser** le thème du Web : **Lire** [Le cours](https://www.lelivrescolaire.fr/page/30330066){target="_blank"} et **retenir** [l'essentiel](https://www.lelivrescolaire.fr/page/30330018){target="_blank"} à savoir pour une évaluation par QCM le 20/11.
+    
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank},  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ;
+
 ***
 ### Le 06/11
 
