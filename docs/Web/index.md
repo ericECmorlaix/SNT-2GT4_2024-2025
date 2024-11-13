@@ -44,47 +44,43 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 ## Quelques notions essentielles à retenir
 
-- Web = ... = ... :
-- Internet :
-- Web != Internet ?
-- Site
-
-- ARPANET 1970
-- Tim BERNER LEE en 1990
-- Hypertexte
-
-- HTML :
-- CSS :
-- index.html
-- style.css
-- sélecteur CSS
-- Javascript
-- script.js
-- HTML5 permet le web sémantique
-- MarkDown
-
-- Client / Serveur
-- Navigateur
-- HTTP / HTTPS
-- Faire une requête HTTP
-- Code 200, 404 
-- web statique
-- web dynamique
-
-- Moteur de recherche (Metamoteur)
-- Surfer
-- URL
-- IP
-- DNS
-- arborescence
-- chemin absolu/relatif 
-
-- Cloud
-- Mail
-- Streaming
-
-- Cookies
-- Référencement Web (Page Rank)
+| Notion | Définition |
+|:------:|:----------:|
+| Web = ... = ... | ..............................................................................................  |
+| Internet |   |
+| Web != Internet |   |
+| Site Web |   |
+| ARPANET 1970 |   |
+| Tim BERNER LEE en 1990 |   |
+| Hypertexte |   |
+| HTML |   |
+| CSS |   |
+| index.html |   |
+| style.css |   |
+| sélecteur CSS |   |
+| Javascript |   |
+| script.js |   |
+| HTML5 permet le web sémantique |   |
+| MarkDown |   |
+| Client / Serveur |   |
+| Navigateur |   |
+| HTTP / HTTPS |   |
+| Faire une requête HTTP |   |
+| Code 200, 404 |   |
+| Web statique |   |
+| Web dynamique |   |
+| Moteur de recherche (Métamoteur) |   |
+| Surfer |   |
+| URL |   |
+| IP |   |
+| DNS |   |
+| arborescence |   |
+| chemin absolu/relatif |   |
+| Cloud |   |
+| Mail |   |
+| Streaming |   |
+| Cookies |   |
+| Référencement Web (Page Rank) |   |
 
 
 <!-- 
