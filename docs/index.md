@@ -1195,9 +1195,31 @@ Correction DM HTML/CSS
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
 
 
-
-
 -->
+***
+### Le 25/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction du QCM Web ;
+
+    - Finalisation des travaux du trimestre :
+
+        - [TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
+        - [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} ;
+
+    - **Mesurer** vos compétences sur PIX dans les domaines [du Web parcours `XHBQVH781`](https://app.pix.fr/campagnes/XHBQVH781){target="_blank"} et [de l'Internet parcours `GMHLWV945`](https://app.pix.fr/campagnes/GMHLWV945){target="_blank"} ;
+
+    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} -> **Rédiger** progressivement un [notebook jupyter sur Capytale n°ba7a-3864065](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...
+
+    > **enregistrer** une copie de vos travaux sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace...
+
 ***
 ### Le 13/11
 
