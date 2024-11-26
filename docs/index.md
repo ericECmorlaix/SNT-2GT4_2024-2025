@@ -1197,6 +1197,25 @@ Correction DM HTML/CSS
 
 -->
 ***
+### Le 27/11
+
+=== "CONTENU DE SÉANCE"
+
+    - [ Introduction aux fonctions Python pour dessiner avec Turtle sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+    
+    - [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
+
+    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} -> **Rédiger** progressivement un [notebook jupyter sur Capytale n°ba7a-3864065](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...
+
+    > **enregistrer** une copie de vos travaux sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace...
+
+***
 ### Le 25/11
 
 === "CONTENU DE SÉANCE"
