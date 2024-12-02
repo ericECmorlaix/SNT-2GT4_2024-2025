@@ -1197,6 +1197,13 @@ Correction DM HTML/CSS
 
 -->
 ***
+### Le 03/12
+
+=== "CONTENU DE SÉANCE"
+
+    - [ Se perfectionner en Python avec **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
+
+***
 ### Le 27/11
 
 === "CONTENU DE SÉANCE"
