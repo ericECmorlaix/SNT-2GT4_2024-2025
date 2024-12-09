@@ -1197,7 +1197,7 @@ Correction DM HTML/CSS
 
 -->
 ***
-### Le 09/12
+### Les 09 et 11/12
 
 === "CONTENU DE SÉANCE"
 
