@@ -942,11 +942,6 @@ Correction DM HTML/CSS
 
     - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 ***
-### Le 11/01
-
-=== "CONTENU DE SÉANCE"
-
-    - **Rendre** votre devoir de vacances : [évaluation pratique en HTML/CSS | n°c860-2520743 /Capytale](https://capytale2.ac-paris.fr/web/c/c860-2520743){:target="_blank"} ;
 
     - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
@@ -967,235 +962,39 @@ Correction DM HTML/CSS
 
     - **Se préparer** pour une évaluation pratique de programmation en Python en réalisant sur Capytale les activités des notebook [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) _Se connecter à Toutatice via educonnect_ ;
 
-    - **Commencer** votre devoir de vacances : [évaluation pratique en HTML/CSS | n°c860-2520743 /Capytale](https://capytale2.ac-paris.fr/web/c/c860-2520743){:target="_blank"} ;
-               
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** votre devoir de vacances : [évaluation pratique en HTML/CSS | n°c860-2520743 /Capytale](https://capytale2.ac-paris.fr/web/c/c860-2520743){:target="_blank"} ; 
-    
-    - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) ;
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-### Le 14/12
-
-=== "CONTENU DE SÉANCE"
-
-    - Mise en commun des apprentissages de programmation en langage Python réalisés sur [https://fr.futurecoder.io](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} et [https://py-rates.fr](https://py-rates.fr/){:target="_blank"} ;
-    
-    - **Se préparer** pour une évaluation pratique de programmation en Python en réalisant sur Capytale les activités des notebook [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) _Se connecter à Toutatice via educonnect_ ;
-
-    - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour finir sur PIX votre campagne de cybersécurité avec le code `PSYUFX677` et **poursuivre** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) en complétant notre [tableau blanc Cyber_5](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"} (*une page par équipe, la page `Cyber_5` sert pour la mise en commun*) ; 
-
-    [![](./images/cyber_5-V00.png){.center width = 60%}](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"}
-
-    https://www.tldraw.com/r/dBAtBhwC8hyGf6WGeBOzW?viewport=-214,-91,1918,923&page=page:page 
-               
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;    
-    > ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
-    
-    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
-    
-    ???- tip "Sur iPad, à la fin d’un niveau, le passage au niveau suivant ne se fait pas automatiquement !"
-        
-        Il faut donc systématiquement appliquer la procédure palliative suivante :
-
-        - **Cliquer** sur le bouton jaune `Sauvegarder` (le point rouge doit disparaitre) ;
-        - **Copier** le code d’identification `Id` ;
-        - **Actualiser** l’affichage de la page dans Safari ;
-        - **Coller** le code `Identifiant` et cliquer sur le bouton bleu `Je reprends` ;
-        - **Augmenter** la vitesse d’exécution ;
-        - **Cliquer** sur le bouton `Exécuter` pour rejouer le niveau ;
-        - Enfin **cliquer** sur le bouton vert `Niveau suivant`…
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-### Le 07/12
-
-=== "CONTENU DE SÉANCE"
-
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;    
-    > ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
-    
-    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
-    
-    ???- tip "Sur iPad, à la fin d’un niveau, le passage au niveau suivant ne se fait pas automatiquement !"
-        
-        Il faut donc systématiquement appliquer la procédure palliative suivante :
-
-        - **Cliquer** sur le bouton jaune `Sauvegarder` (le point rouge doit disparaitre) ;
-        - **Copier** le code d’identification `Id` ;
-        - **Actualiser** l’affichage de la page dans Safari ;
-        - **Coller** le code `Identifiant` et cliquer sur le bouton bleu `Je reprends` ;
-        - **Augmenter** la vitesse d’exécution ;
-        - **Cliquer** sur le bouton `Exécuter` pour rejouer le niveau ;
-        - Enfin **cliquer** sur le bouton vert `Niveau suivant`…
-
-    - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour finir sur PIX votre campagne de cybersécurité avec le code `PSYUFX677` et **poursuivre** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) en complétant notre [tableau blanc Cyber_5](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"} (*une page par équipe, la page `Cyber_5` sert pour la mise en commun*) ; 
 
     [![](./images/cyber_5-V00.png){.center width = 60%}](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"}
 
   https://www.tldraw.com/r/dBAtBhwC8hyGf6WGeBOzW?viewport=-214,-91,1918,923&page=page:page 
                
-=== "TRAVAIL À FAIRE"
 
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
-    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-
-***
-
-### Le 05/12
-
-=== "CONTENU DE SÉANCE"
-
-    - **Découvrir** les bases de la programmation en Python en résolvant les 8 niveaux du jeu [Pyrates](https://py-rates.fr/){target="_blank"} ;
-
-    ???- tip "Sur iPad, à la fin d’un niveau, le passage au niveau suivant ne se fait pas automatiquement !"
-        
-        Il faut donc systématiquement appliquer la procédure palliative suivante :
-
-        - **Cliquer** sur le bouton jaune `Sauvegarder` (le point rouge doit disparaitre) ;
-        - **Copier** le code d’identification `Id` ;
-        - **Actualiser** l’affichage de la page dans Safari ;
-        - **Coller** le code `Identifiant` et cliquer sur le bouton bleu `Je reprends` ;
-        - **Augmenter** la vitesse d’exécution ;
-        - **Cliquer** sur le bouton `Exécuter` pour rejouer le niveau ;
-        - Enfin **cliquer** sur le bouton vert `Niveau suivant`…
 
     - **Initialiser** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) ;
     - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour mener sur PIX une campagne de cybersécurité avec le code `PSYUFX677` ;
-               
-=== "TRAVAIL À FAIRE"
 
-    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
     - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 
-***
-
-### Le 30/12
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction de l'évaluation par QCM sur le thème du WEB ;
-
-    - Correction des sites du [projet web](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Web/#projet-web){target="_blank"} ;
-
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
-               
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-
-***
-
-### Le 23/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Evaluation par QCM sur le thème du WEB ;
-
-    - **Finaliser** votre site présentant le sujet et les notions du [projet web](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Web/#projet-web){target="_blank"} confié à votre équipe -> ==**Transmettre** par [mail] un lien vers votre site personnel== ;
-
-    - **Utiliser** la ressource du [Livre Scolaire](https://www.lelivrescolaire.fr/page/30327051) pour **valider** le contenu de votre projet Web ;
-
-               
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;    
-
-***
-
-### Les 09 et 16/11 (0,5h + 1,5h)
-
-=== "CONTENU DE SÉANCE"
-
-    - **Développer** et **publier** un site présentant le sujet et les notions du [projet web](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Web/#projet-web){target="_blank"} confié à votre équipe -> ==**Transmettre** par [mail] un lien vers votre site personnel== ;
-
-    - **Utiliser** la ressource du [Livre Scolaire](https://www.lelivrescolaire.fr/page/30327051) pour **valider** le contenu de votre projet Web ;
-
-    - **Lire** [Le cours](https://www.lelivrescolaire.fr/page/30330066){target="_blank"} et **retenir** [l'essentiel](https://www.lelivrescolaire.fr/page/30330018){target="_blank"} à savoir pour une évaluation par QCM le 23/11...
-
-               
-=== "TRAVAIL À FAIRE"
-
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-    - ==Se préparer pour une évaluation par QCM le 23/11 sur les notions du Web et de l'Internet étudiées ce trimestre, ainsi que les langages HTML/CSS et les bases de la programmation en Python== ;  
-
-***
-### Le 19/10
-
-=== "CONTENU DE SÉANCE"
-
-    - Publier un site web depuis [GitHub](./github), précisions complémentaires :
-        - Dans un terminal, **saisir** `python -m http.server`, puis **cliquer** sur le bouton `Open Browser` (ou sur port pour afficher votre page dans un nouvel onglet de votre navigateur) ;
-        - La routine pour maintenir votre site Git avec un éditeur VSC en ligne se résume à **modifier**, **indexer**, **committer**, **pousser**...
-
-    - Choix des sujets du projet WEB ;
-   
-    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
-        
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-    - **Faire** des recherches concernant le sujet de votre [projet web](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/Web/#projet-web){target="_blank"} ;
-
-***
-### Le 12/10
-
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. ;
-    
-    - Publier un site web depuis [GitHub](./github) ;
-   
-    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
-        
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-
-***
-
-### Les 28/09 et 05/10
-
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. ;
-    
-    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/JUVZ78CT>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [notebook jupyter]{target=_blank} avec l'application **Carnets** afin d'y **conserver** une trace de votre travail...
-
-    - **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
-
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
-
-=== "TRAVAIL À FAIRE"
-
-    
-    - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
-    > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
-    > - Ajoutez les membres de votre groupe en Copie Carbone du mail ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
-
-- **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
-
-    
-
-   - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
-    > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
-    > - Ajoutez les membres de votre groupe en Copie Carbone du mail ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
-    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
-
-
 -->
+
+***
+### Le 18/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse de [**Turtle** sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** [**Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} et [**Turtle** sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
+
+    - **Rendre**,  avant le 25/12/2024, le notebook de [mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
+
+    - **Faire**, pour le 06/01/2025 le [devoir pratique de HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
+
+    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
+
 ***
 ### Les 09 et 11/12
 
