@@ -945,14 +945,14 @@ Correction DM HTML/CSS
 
     - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
-    - Initiation du thème les [réseaux sociaux](./RS/) -> ==rédaction collective en MarkDown d'une [liste de réseaux sociaux](https://capytale2.ac-paris.fr/web/c/4c82-2709117){target="_blank"}== ;
+    
                
 === "TRAVAIL À FAIRE"
    
     
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
-    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
+    
 
     - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 ***
@@ -977,6 +977,22 @@ Correction DM HTML/CSS
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
 -->
+***
+### Le 06/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Initiation du thème les [réseaux sociaux](./RS/) -> ==rédaction collective en MarkDown d'une [liste de réseaux sociaux](https://capytale2.ac-paris.fr/web/c/f193-5152858){target="_blank"}== ;
+    
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** [**Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} et [**Turtle** sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} et le notebook de [mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
+
+    - **Faire**, pour le 08/01/2025 le [devoir pratique de HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
+
+    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
 
 ***
 ### Le 18/12
