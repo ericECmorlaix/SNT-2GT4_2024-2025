@@ -58,8 +58,6 @@ Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https:/
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iwDh9C4q4og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
-<!-- 
-
 ## Présentation
 
 ![social_dashboard](../images/undraw_social_thinking_re_y8cc.svg){align=left width=18%}![social_dashboard](../images/undraw_social_growth_re_tjy9.svg){ align=right width=22%}Préparer une présentation orale de votre réseau.
@@ -70,6 +68,8 @@ Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https:/
 <br>
 <br>
 <hr>
+
+<!--
 
 ## Mesure PIX
 

@@ -978,6 +978,28 @@ Correction DM HTML/CSS
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
 -->
 ***
+### Le 20/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **Tester** [vos combinaisons de spécialités](https://www.horizons21.fr/){target=_blank} au regard "*des univers de formations et des métiers qui s'offrent à vous*" ;
+    - **Réaliser** [un diaporama à partir d'un Jupyter Notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){target="_blank"}  
+    [Capytale n° 8f8c-5348900](https://capytale2.ac-paris.fr/web/c/8f8c-5348900){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){ .md-button .md-button--primary} ;
+    - **Poursuivre** vos recherches sur les [réseaux sociaux](./RS/) ;
+    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;                              
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** [**Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} et [**Turtle** sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} et le notebook de [mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
+
+    - **Rendre** le [devoir pratique de HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
+
+    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
+
+***
 ### Le 08/01
 
 === "CONTENU DE SÉANCE"
