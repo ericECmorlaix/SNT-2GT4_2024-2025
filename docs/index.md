@@ -865,102 +865,19 @@ Correction DM HTML/CSS
        
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 ***
 
-### Le 15/02
 
-=== "CONTENU DE SÉANCE"
 
-    - **Découvrir** les notions de [graphe et petit monde](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#graphes-et-petit-monde){target="_blank"} ;
+   
 
-    - **Discuter** de potentielles [dérives](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#derives){target="_blank"} ;
-    
-    - **Finaliser** [votre présentation](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#presentation){target="_blank"} et **transmettre** par mail un lien vers votre capsule vidéo partagée dans Microsoft365 ; 
-    
-    - [**Réviser** en prévision d'une évaluation...](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#bilan){target="_blank"}.                             
+                                 
                
-=== "TRAVAIL À FAIRE"
-       
-    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
-    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-### Le 08/02
-
-=== "CONTENU DE SÉANCE"
-
-    - **Finaliser** vos recherches sur les [réseaux sociaux](./RS/) ;
-
-    - **Réaliser** [un diaporama à partir d'un Jupyter Notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){target="_blank"} ; 
-    
-    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
-
-    - **Mesurer** vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `VXXNMS329` sur PIX](https://app.pix.fr/campagnes/VXXNMS329){target="_blank"} ;                              
-               
-=== "TRAVAIL À FAIRE"
-       
-    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
-
-    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-### Le 25/01
-
-=== "CONTENU DE SÉANCE"
-
-    - **Tester** [vos combinaisons de spécialités](https://www.horizons21.fr/){target=_blank} au regard "*des univers de formations et des métiers qui s'offrent à vous*" ;
-    - **Réaliser** [un diaporama à partir d'un Jupyter Notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){target="_blank"} ; 
-    - **Poursuivre** vos recherches sur les [réseaux sociaux](./RS/) ;
-    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;                              
-               
-=== "TRAVAIL À FAIRE"
-       
-    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
-
-    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-### Le 18/01
-
-=== "CONTENU DE SÉANCE"
 
     - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
-    - Recherches sur les [réseaux sociaux](./RS/) ;
-               
-=== "TRAVAIL À FAIRE"
-   
-    
-    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) ;
 
-    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-
-    - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
-
-    
-               
-=== "TRAVAIL À FAIRE"
-   
-    
-    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
-
-    
-
-    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
-***
-### Le 21/12
-
-=== "CONTENU DE SÉANCE"
-
-    - **Se préparer** pour une évaluation pratique de programmation en Python en réalisant sur Capytale les activités des notebook [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) _Se connecter à Toutatice via educonnect_ ;
 
 
     [![](./images/cyber_5-V00.png){.center width = 60%}](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"}
@@ -976,7 +893,28 @@ Correction DM HTML/CSS
 
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+
+
+    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 -->
+***
+### Les 03 et 05/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** les notions de [graphe et petit monde](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#graphes-et-petit-monde){target="_blank"} ;
+    
+    - **Finaliser** [votre présentation](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#presentation){target="_blank"} et **transmettre** par mail un lien vers votre capsule vidéo partagée dans Microsoft365 ;
+
+    - **Mesurer** vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `AMXGJB995` sur PIX](https://app.pix.fr/campagnes/AMXGJB995){target="_blank"} ;  
+    
+    - **Discuter** de potentielles [dérives](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#derives){target="_blank"} ;                          
+               
+=== "TRAVAIL À FAIRE"     
+    
+    - [**Réviser** en prévision d'une évaluation...](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#bilan){target="_blank"}.   
+
+
 ***
 ### Le 20/01
 

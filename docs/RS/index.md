@@ -69,13 +69,7 @@ Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https:/
 <br>
 <hr>
 
-<!--
 
-## Mesure PIX
-
-Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `VXXNMS329` sur PIX](https://app.pix.fr/campagnes/VXXNMS329){target="_blank"} ;
-
-> Relever dans [votre notebook de recherches](https://capytale2.ac-paris.fr/web/c/fd8e-2770891){target="_blank"}, les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 
  
 ## Connaissances associées
@@ -127,7 +121,7 @@ Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le par
                 
         === "Réponse"
         
-            ... -->
+            ... 
 
 
 <!--
@@ -184,8 +178,8 @@ En quoi consiste l'expérience de Milgram...
 **...........................................**
 **...........................................**
 ``` -->
-<!-- 
-A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**` dans le fichier [FlashCards : Graphes et petit monde](https://capytale2.ac-paris.fr/web/c/a727-3007567){target="_blank"} ;
+
+A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**` dans le fichier [Graphes et petit monde](https://capytale2.ac-paris.fr/web/c/911f-5547390){target="_blank"} ;
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nn1mIqW9oYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -213,6 +207,9 @@ A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.leli
         ...
 
 
+
+
+
 ### Vidéos de ressources complémentaires :
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gOiIQ0qGiCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
@@ -237,6 +234,14 @@ A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.leli
     - 
     - 
     - 
+
+
+
+## Mesure PIX
+
+**Mesurer** vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `AMXGJB995` sur PIX](https://app.pix.fr/campagnes/AMXGJB995){target="_blank"} ; 
+
+> Relever dans [votre notebook de recherches](https://capytale2.ac-paris.fr/web/c/a3fc-5181795){target="_blank"}, les notions pour lesquelles vous auriez besoin d'explications complémentaires... -->
 
 ## Bilan
 
