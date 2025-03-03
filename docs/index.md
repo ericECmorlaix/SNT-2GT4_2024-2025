@@ -853,30 +853,7 @@ Correction DM HTML/CSS
     - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
 
   ***
-### Le 22/02
-
-=== "CONTENU DE SÉANCE"
-        
-    - **Finaliser** [votre présentation](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#presentation){target="_blank"} et **transmettre** par mail un lien vers votre capsule vidéo partagée dans Microsoft365 ; 
-    
-    - [Bilan du thème et évaluation par QCM sur Ecole Directe](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#bilan){target="_blank"}.                             
-               
-=== "TRAVAIL À FAIRE"
-       
-    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
-
-***
-
-
-
-   
-
-                                 
-               
-
-
-    - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
-
+ **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 
 
 
@@ -884,7 +861,6 @@ Correction DM HTML/CSS
 
   https://www.tldraw.com/r/dBAtBhwC8hyGf6WGeBOzW?viewport=-214,-91,1918,923&page=page:page 
                
-
 
     - **Initialiser** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) ;
     - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour mener sur PIX une campagne de cybersécurité avec le code `PSYUFX677` ;
@@ -897,6 +873,23 @@ Correction DM HTML/CSS
 
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 -->
+
+### Le 03/03
+
+=== "CONTENU DE SÉANCE"
+        
+    - [Bilan du thème RS et évaluation par QCM sur Ecole Directe](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/RS/#bilan){target="_blank"}.                             
+               
+=== "TRAVAIL À FAIRE"
+       
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.apps.education.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python en s'exerçant](https://genepy.org/exercises/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes en pratiquant la programmation en Python](https://codex.forge.apps.education.fr/parcours/#snt){target="_blank"} ; 
+
+    > Conserver une trace de vos scripts sur [Capytale n° 2195-5791410](https://capytale2.ac-paris.fr/web/c/2195-5791410){target=_blank .md-button .md-button--primary}
+
 ***
 ### Les 03 et 05/02
 
