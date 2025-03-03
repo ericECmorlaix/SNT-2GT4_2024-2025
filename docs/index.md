@@ -874,7 +874,7 @@ Correction DM HTML/CSS
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 -->
 
-### Le 03/03
+### Le 03/03 (et le 05/03 en autonomie)
 
 === "CONTENU DE SÉANCE"
         
