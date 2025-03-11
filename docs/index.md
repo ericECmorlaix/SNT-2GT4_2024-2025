@@ -874,6 +874,24 @@ Correction DM HTML/CSS
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 -->
 
+***
+### Le 12/03
+
+=== "CONTENU DE SÉANCE"
+        
+    - Corrections des évaluations du second trimestre.                             
+               
+=== "TRAVAIL À FAIRE"
+       
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.apps.education.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python en s'exerçant](https://genepy.org/exercises/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes en pratiquant la programmation en Python](https://codex.forge.apps.education.fr/parcours/#snt){target="_blank"} ; 
+
+    > Conserver une trace de vos scripts sur [Capytale n° 2195-5791410](https://capytale2.ac-paris.fr/web/c/2195-5791410){target=_blank .md-button .md-button--primary}
+
+***
 ### Le 03/03 (et le 05/03 en autonomie)
 
 === "CONTENU DE SÉANCE"
