@@ -124,7 +124,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         displayTable(table_capitales_regions)
         ```
  -->
-<!-- 
+
 
 ???- abstract "Notions et vocabulaire à retenir"
 

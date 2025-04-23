@@ -875,6 +875,28 @@ Correction DM HTML/CSS
 -->
 
 ***
+## Le 23/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse des notions et vocabulaire à retenir concernant les [Données Structurées](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/DS/){target=_blank} ;
+
+    - **Finir** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `6rxdntm6` pour l'activité n°1 ;
+        - `tnhmftky` pour l'activité n°2 ; 
+        - `8qmuiun9` pour l'activité n°3 ;
+
+=== "TRAVAIL À FAIRE"
+       
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.apps.education.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python en s'exerçant](https://genepy.org/exercises/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes en pratiquant la programmation en Python](https://codex.forge.apps.education.fr/parcours/#snt){target="_blank"} ; 
+
+    > Conserver une trace de vos scripts sur [Capytale n° 2195-5791410](https://capytale2.ac-paris.fr/web/c/2195-5791410){target=_blank .md-button .md-button--primary}
+
+***
 ## Du 17/03
 
 === "CONTENU DE SÉANCE"
