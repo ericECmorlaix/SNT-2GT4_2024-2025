@@ -875,7 +875,7 @@ Correction DM HTML/CSS
 -->
 
 ***
-## Le 23/04
+## Les 23 et 28/04
 
 === "CONTENU DE SÉANCE"
 
@@ -885,6 +885,8 @@ Correction DM HTML/CSS
         - `6rxdntm6` pour l'activité n°1 ;
         - `tnhmftky` pour l'activité n°2 ; 
         - `8qmuiun9` pour l'activité n°3 ;
+
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `KKFBSZ615` sur PIX](https://app.pix.fr/campagnes/KKFBSZ615){target="_blank"} ;
 
 === "TRAVAIL À FAIRE"
        
