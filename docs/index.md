@@ -207,13 +207,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
     - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
 
 ***
-## Le 28/03
 
-=== "CONTENU DE SÉANCE"
-
-    - **Découvrir** la [représentation binaire des données](./DS/#notion-de-binaire) ;
-
-    - **Poursuivre** les [expériences de traitement de données](./DS/#experiences-de-traitement) ; 
 
 === "TRAVAIL À FAIRE"
 
@@ -699,11 +693,7 @@ Correction DM HTML/CSS
 
 ## Le 16/05
 
-=== "CONTENU DE SÉANCE"
 
-    - Synthèse des notions et vocabulaire à retenir concernant les [Données Structurées](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/DS/){target=_blank} et notion de binaire ;
-
-    - **Remédiation** sur les réseaux sociaux et les graphes ;
      
     - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
 
@@ -730,16 +720,7 @@ Correction DM HTML/CSS
 ***
 ## Le 11/04
 
-=== "CONTENU DE SÉANCE"
 
-    - Synthèse des notions et vocabulaire à retenir concernant les [Données Structurées](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/DS/){target=_blank} ;
-
-    - **Finir** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
-        - `tiw7phe9` pour l'activité n°1 ;
-        - `6igpd943` pour l'activité n°2 ; 
-        - `pcj3ddrh` pour l'activité n°3 ;
-
-    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `YDJDCP844` sur PIX](https://app.pix.fr/campagnes/YDJDCP844){target="_blank"} ;
     
     - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
 
@@ -770,14 +751,6 @@ Correction DM HTML/CSS
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse des notions et vocabulaire à retenir concernant les [Données Structurées](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/DS/){target=_blank} ;
-
-    - **Poursuivre** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
-        - `tiw7phe9` pour l'activité n°1 ;
-        - `6igpd943` pour l'activité n°2 ; 
-        - `pcj3ddrh` pour l'activité n°3 ;
-
-    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `YDJDCP844` sur PIX](https://app.pix.fr/campagnes/YDJDCP844){target="_blank"} ;
     
     - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
 
@@ -801,15 +774,7 @@ Correction DM HTML/CSS
 
     - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
 
-***
-## Le 28/03
 
-=== "CONTENU DE SÉANCE"
-
-    - **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
-        - `tiw7phe9` pour l'activité n°1 ;
-        - `6igpd943` pour l'activité n°2 ; 
-        - `pcj3ddrh` pour l'activité n°3 ;
 
     - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
 
@@ -867,18 +832,43 @@ Correction DM HTML/CSS
 
     - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
 
 
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 -->
-
 ***
-## Les 23 et 28/04
+## Les 12 et 14/05
 
 === "CONTENU DE SÉANCE"
 
+    - **Découvrir** la [représentation binaire des données](./DS/#notion-de-binaire) ;
+
+    - **Faire** les [expériences de traitement de données](./DS/#experiences-de-traitement) ; 
+
+    - **Finir** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `6rxdntm6` pour l'activité n°1 ;
+        - `tnhmftky` pour l'activité n°2 ; 
+        - `8qmuiun9` pour l'activité n°3 ;
+
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `KKFBSZ615` sur PIX](https://app.pix.fr/campagnes/KKFBSZ615){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+       
+    - **Se préparer** pour une évaluation sur les [données structurées](./DS/#bilan) ;
+
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.apps.education.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python en s'exerçant](https://genepy.org/exercises/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes en pratiquant la programmation en Python](https://codex.forge.apps.education.fr/parcours/#snt){target="_blank"} ; 
+
+    > Conserver une trace de vos scripts sur [Capytale n° 2195-5791410](https://capytale2.ac-paris.fr/web/c/2195-5791410){target=_blank .md-button .md-button--primary}
+
+***
+## Les 23 et 28/04
+= "CONTENU DE SÉANCE"
+
+==
     - Synthèse des notions et vocabulaire à retenir concernant les [Données Structurées](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025/DS/){target=_blank} ;
 
     - **Finir** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
