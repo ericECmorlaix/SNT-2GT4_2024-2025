@@ -166,7 +166,7 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
 
     <center><img src="https://ericecmorlaix.github.io/img/Binaire-TourDeMagie.svg" alt="5 cartes" width=80%></center>
 
-    <!-- <center> Source : <a href="https://culturemath.ens.fr/thematiques/college/tour-de-magie-binaire">Cliquez ici pour trouver une explication, si besoin..."</a></center>
+    <center> Source : <a href="https://culturemath.ens.fr/thematiques/college/tour-de-magie-binaire">Cliquez ici pour trouver une explication, si besoin..."</a></center>
 
 
     Comment fait-il ?
@@ -191,18 +191,18 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         === "Question 1"
             Existe-t-il un nombre qui peut être représenté de deux façons différentes avec les cartes ?
         === "Réponse 1"
-            ...
+            <font color="blue">NON</font>
         ***
         === "Question 2"
             Peut-on afficher n'importe quel entier ?
         === "Réponse 2"
-            ...
+            <font color="blue">NON</font>
 
         ***
         === "Question 3"
             Quel est le maximum ?
         === "Réponse 3"
-            ...
+            <font color="blue">31</font>
 
         ***
 
@@ -219,25 +219,25 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         === "Question 1"
             Quel nombre est représenté par le mot **``01001``** ?
         === "Réponse 1"
-            ...
+            <font color="blue">9</font>
 
         ***
         === "Question 2"
             Quel nombre est représenté par le mot  **``00000``** ? 
         === "Réponse 2"
-            ...
+            <font color="blue">0</font>
 
         ***
         === "Question 3"
             Quel nombre est représenté par le mot  **``11111``** ?
         === "Réponse 3"
-            ...
+            <font color="blue">15</font>
 
         ***
         === "Question 4"
             Comment écrit-on **$17$** en binaire ?  
         === "Réponse 4"
-            ...
+            <font color="blue">10001</font>
 
         ***
         > *Etc… entraînez vous avec vos voisins à convertir différents nombres entiers dans le sens décimal => binaire  et  binaire => décimal...*
@@ -267,7 +267,11 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         En vous répartissant le travail, décodez la phrase (codée en décimal) :
         `83|78|84|44|32|99|39|101|115|116|32|116|111|112|32|33`
     === "Réponse"
-
+        <font color="blue">...</font>
+    === "Question"
+        Que désigne le descripteur `Hex` dans la table [ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange) présentée ci-dessus ?
+    === "Réponse"
+        <font color="blue">...</font>
  
 ## Mesure PIX
 

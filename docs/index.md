@@ -854,7 +854,7 @@ Correction DM HTML/CSS
 
 === "TRAVAIL À FAIRE"
        
-    - **Se préparer** pour une évaluation sur les [données structurées](./DS/#bilan) ;
+    - **Se préparer** pour une évaluation sur les [données structurées](./DS/#bilan) programmée le 21/05 ;
 
     - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.apps.education.fr/enigmes/){target="_blank"} ;
     
