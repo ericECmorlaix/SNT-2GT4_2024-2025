@@ -837,6 +837,101 @@ Correction DM HTML/CSS
     - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
 -->
 ***
+## Le 06/06
+
+=== "CONTENU DE SÉANCE"
+
+    - **Se questionner** et **découvrir** l'Intelligence Artificielle avec Guillaume et la Hotline  :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mkfXdzA6B_c?si=sMKHM1SULVs5CKRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Qui a peur de l’IA ? Se questionner #1</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/yQLmgw3rClM?si=coIFHrHxcEX_cm5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>C’est quoi l’intelligence artificielle ? Découvrir #1</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/E_3vJwb-wE0?si=Xkk1LSV1vs-pf3-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>De l’IA à toutes les sauces ? Se questionner #2</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bLvabh0asQU?si=vQjsj3EFohXAfWFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Du machine learning et des données. Découvrir #2</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rEXOzNGAWFQ?si=MHI9FFIcgNkajN-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Les humains sont-ils bons pour la casse ? Se questionner #3</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4D8XReLj5SQ?si=MFPY2qNthNln061Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>L'intelligence artificielle à notre service ? Découvrir #3</figcaption>
+        </figure>
+        </center>
+
+
+    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} :
+
+        - [**entrainer** une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank} ;    
+    
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EDtvcOl_PhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <figcaption>Tutoriel Entraînement IA</figcaption>
+        </figure>
+        </center>
+
+    - **Comprendre** le fonctionnement d'IA génératives d'images :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tdelUss-5hY?si=uttHmOGh89SM-Ijj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Comment ces IA inventent-elles des images ?</figcaption>
+        </figure>
+        </center>
+    
+    - **Poursuivre** la découverte de l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} :
+
+        - [**interagir** avec différents modèles d'IA textuelles](https://fr.vittascience.com/ia/text.php){target=_blank} ;    
+    
+    - **Utiliser** une IA conversationnelle sans inscription avec [DuckDuckGo](https://duckduckgo.com/){target=_blank} ;  
+    
+    - **Reproduire** l'expérience :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/q8-LhLKc8wY?si=kaVzTn_vQ3YFJYN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Intelligence artificielle-une machine qui apprend à jouer</figcaption>
+        </figure>
+        </center>
+
+=== "TRAVAIL À FAIRE"
+       
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.apps.education.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python en s'exerçant](https://genepy.org/exercises/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes en pratiquant la programmation en Python](https://codex.forge.apps.education.fr/parcours/#snt){target="_blank"} ; 
+
+    > Conserver une trace de vos scripts sur [Capytale n° 2195-5791410](https://capytale2.ac-paris.fr/web/c/2195-5791410){target=_blank .md-button .md-button--primary}
+
+***
 ## Les 12 et 14/05
 
 === "CONTENU DE SÉANCE"
